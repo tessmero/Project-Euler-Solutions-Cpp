@@ -1,4 +1,5 @@
-﻿  unittest1.cpp
+﻿  stdafx.cpp
+  unittest1.cpp
      Creating library C:\Users\Oliver\Documents\github\Project-Euler-Solutions-Cpp\Debug\Tests.lib and object C:\Users\Oliver\Documents\github\Project-Euler-Solutions-Cpp\Debug\Tests.exp
   Tests.vcxproj -> C:\Users\Oliver\Documents\github\Project-Euler-Solutions-Cpp\Debug\Tests.dll
   Tests.vcxproj -> C:\Users\Oliver\Documents\github\Project-Euler-Solutions-Cpp\Debug\Tests.pdb (Partial PDB)

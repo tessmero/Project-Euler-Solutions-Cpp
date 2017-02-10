@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include <iostream>
 
-#include "Solver1.h"
+#include "Solvers\Solver1.h"
 
 using namespace std;
 
